@@ -4,6 +4,7 @@ Adds 3D textures to modded blocks
 
 ## ✨ Compatibility
 
+- [Copper Age Backport](https://modrinth.com/project/a1llHwl4)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 
 ## 🚀 Planned Features
@@ -14,6 +15,7 @@ Adds 3D textures to modded blocks
 - Enhanced Workbenches
 - Friends & Foes
 - Pyrellium
+- Vanilla Backport
 - Wilder Wild
 
 ## 📦 Installation
