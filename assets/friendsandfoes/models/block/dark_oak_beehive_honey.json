@@ -1,0 +1,9 @@
+{
+    "parent": "block/beehive_honey",
+    "textures": {
+        "bottom": "friendsandfoes:block/dark_oak_beehive_end",
+        "front": "friendsandfoes:block/dark_oak_beehive_front_honey",
+        "side": "friendsandfoes:block/dark_oak_beehive_side",
+        "particle": "friendsandfoes:block/dark_oak_beehive_side"
+    }
+}

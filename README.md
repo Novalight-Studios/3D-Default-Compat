@@ -6,6 +6,7 @@ Adds 3D textures to modded blocks
 
 - [Copper Age Backport](https://modrinth.com/project/a1llHwl4)
 - [Deeper & Darker](https://modrinth.com/project/fnAffV0n) (tools)
+- [Friends & Foes](https://modrinth.com/project/POQ2i9zu)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
 
@@ -13,7 +14,6 @@ Adds 3D textures to modded blocks
 
 - [Biomes O’ Plenty](https://modrinth.com/project/HXF82T3G)
 - [Deeper & Darker](https://modrinth.com/project/fnAffV0n)
-- [Friends & Foes](https://modrinth.com/project/POQ2i9zu)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 

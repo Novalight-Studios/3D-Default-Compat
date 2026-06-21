@@ -1,0 +1,9 @@
+{
+    "parent": "block/beehive",
+    "textures": {
+        "top": "friendsandfoes:block/birch_beehive_end",
+        "front": "friendsandfoes:block/birch_beehive_front",
+        "particle": "friendsandfoes:block/birch_beehive_side",
+        "side": "friendsandfoes:block/birch_beehive_side"
+    }
+}
