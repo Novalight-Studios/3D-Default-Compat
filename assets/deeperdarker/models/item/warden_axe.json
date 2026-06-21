@@ -1,0 +1,6 @@
+{
+    "parent": "item/axe",
+    "textures": {
+        "axe": "deeperdarker:item/warden_axe"
+    }
+}

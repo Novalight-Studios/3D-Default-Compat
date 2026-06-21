@@ -5,6 +5,7 @@ Adds 3D textures to modded blocks
 ## ✨ Compatibility
 
 - [Copper Age Backport](https://modrinth.com/project/a1llHwl4)
+- [Deeper & Darker](https://modrinth.com/project/fnAffV0n) (tools)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
 

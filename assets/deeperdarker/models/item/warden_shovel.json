@@ -1,0 +1,6 @@
+{
+    "parent": "item/shovel",
+    "textures": {
+        "shovel": "deeperdarker:item/warden_shovel"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/hoe",
+    "textures": {
+        "hoe": "deeperdarker:item/resonarium_hoe"
+    }
+}

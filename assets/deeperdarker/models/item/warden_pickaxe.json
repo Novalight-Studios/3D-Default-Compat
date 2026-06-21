@@ -1,0 +1,6 @@
+{
+    "parent": "item/pickaxe",
+    "textures": {
+        "pickaxe": "deeperdarker:item/warden_pickaxe"
+    }
+}

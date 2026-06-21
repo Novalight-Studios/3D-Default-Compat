@@ -1,0 +1,6 @@
+{
+    "parent": "item/hoe",
+    "textures": {
+        "hoe": "deeperdarker:item/warden_hoe"
+    }
+}
