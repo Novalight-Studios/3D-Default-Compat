@@ -11,9 +11,7 @@ Adds 3D textures to modded blocks
 ## 🚀 Planned Features
 
 - [Biomes O’ Plenty](https://modrinth.com/project/HXF82T3G)
-- [Critters & Companions](https://modrinth.com/project/Yd4wb5wZ)
 - [Deeper & Darker](https://modrinth.com/project/fnAffV0n)
-- [Enhanced Workbenches](https://modrinth.com/project/IhBYAM6m)
 - [Friends & Foes](https://modrinth.com/project/POQ2i9zu)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
