@@ -1,0 +1,6 @@
+{
+    "parent": "block/carved_pumpkin",
+    "textures": {
+        "front": "soulcandles:block/soul_jack_o_lantern"
+    }
+}

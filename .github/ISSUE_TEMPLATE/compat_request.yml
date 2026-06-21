@@ -1,0 +1,28 @@
+name: "✨ Compat Request"
+description: Suggest a new idea, improvement, or change for 3D Default Compat
+title: "[Compat]: "
+labels: ["enhancement"]
+assignees: ["Alfakynz"]
+body:
+    - type: textarea
+      id: suggestion
+      attributes:
+          label: "Which mod do you want compatibility with?"
+          placeholder: "Provide the mod name and a link to its Modrinth/CurseForge page."
+      validations:
+          required: true
+
+    - type: textarea
+      id: details
+      attributes:
+          label: "Do you have suggestions, images, or resources?"
+          description: If you have ideas, textures, UI mockups, or screenshots useful for compatibility, include them here.
+          placeholder: "Optional but helpful: screenshots, assets, feature ideas, etc."
+
+    - type: checkboxes
+      id: confirmation
+      attributes:
+          label: "Checklist"
+          options:
+              - label: "I've checked existing issues to make sure this feature hasn't already been suggested."
+                required: true
