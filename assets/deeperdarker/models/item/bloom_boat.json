@@ -1,0 +1,6 @@
+{
+    "parent": "item/boat",
+    "textures": {
+        "boat": "deeperdarker:item/bloom_boat_model"
+    }
+}
